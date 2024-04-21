@@ -34,7 +34,11 @@
 
 4.
 
+![image](https://github.com/Pramod2021-24IT/Quiz-Application/assets/95674009/cad885a5-a058-46ae-a5f4-2bc5f095689c)
 
+5.
+
+![image](https://github.com/Pramod2021-24IT/Quiz-Application/assets/95674009/a6d139c5-b5be-4132-937f-4009266fc670)
 
 ### Next Updates 
 
@@ -43,15 +47,8 @@
 | 1. Mobile Application     |
 | 2. Web Extension          |
 
-#
 
 **Get me on:** <br>
 
 | [![](https://img.shields.io/badge/LinkedIn-pramodmaurya9621-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pramodmaurya9621/) | [![](https://img.shields.io/badge/Gmail-pramod.maurya12321%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:pramod.maurya12321@gmail.com) | [![](https://img.shields.io/badge/Telegram-PramodMaurya9621-blue?logo=Telegram&labelColor=black)](https://t.me/PramodMaurya9621) |
 |--------------------------------------------|-------------------------------------------------|------------------------------------------|
-
-![image](https://github.com/Pramod2021-24IT/Quiz-Application/assets/95674009/cad885a5-a058-46ae-a5f4-2bc5f095689c)
-
-5.
-
-![image](https://github.com/Pramod2021-24IT/Quiz-Application/assets/95674009/a6d139c5-b5be-4132-937f-4009266fc670)
